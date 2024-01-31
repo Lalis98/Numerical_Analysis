@@ -57,8 +57,6 @@ namespace MscNumericalLinearAlgebra.ExcerciseSeries2
             MatrixMethods.PrintMatrix(matrixU);*/
 
             return (matrixL, matrixU);
-
-
         }
 
         /// <summary>

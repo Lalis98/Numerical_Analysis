@@ -40,7 +40,7 @@ namespace MscNumericalLinearAlgebra.ExcerciseSeries2
                 }
             }
 
-
+            Console.WriteLine("A (into Cholesky) =");
             Matrices.MatrixMethods.PrintMatrix(matrixA);
 
             return matrixA;
